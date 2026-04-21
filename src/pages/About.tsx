@@ -85,7 +85,7 @@ export default function About() {
           crafted with care.
         </Typography>
         <Typography color="text.secondary" sx={{ maxWidth: 680 }}>
-          PlayVerse bundles six quick, browser-native games into a single page
+          PlayVerse brings together many games we have in a single page
           application. It’s a demo of modern frontend craftsmanship: state
           management patterns, custom hooks, theming, accessibility, and
           snappy animations — all under the hood of something genuinely fun
